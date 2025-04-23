@@ -7,7 +7,7 @@ This project was created as a school assignment in **May 2024**.
 
 ## 📁 Project Structure
 
-- `Balls/` – contains the brick-and-ball bouncing game
+- `Ball/` – contains the brick-and-ball bouncing game
 - `Snake/` – contains a classic snake game
 
 ---
