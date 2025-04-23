@@ -41,16 +41,7 @@ A classic snake game where the player controls a snake that grows in length by e
 ## ⚙️ Technologies Used
 
 - Java
-- Java Swing for GUI
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mihailop13/Java-mini-games.git
-   ```
-2. Open the project in an IDE (like IntelliJ or Eclipse)
-3. Run `Main` classes in each folder to start the games.
+- Java AWT for GUI
 
 ---
 
