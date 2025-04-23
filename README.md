@@ -34,7 +34,7 @@ A classic snake game where the player controls a snake that grows in length by e
 
 | Initial State | New Game | Gameplay | Game Over |
 |----------------|----------|-----------|-------------|
-| ![Snake start](images/snake_start.png) | ![Snake new game](images/snake_new_game.png) | ![Snake gameplay](images/snake_gameplay.png) | ![Snake game over](images/snake_game_over.png) |
+| ![Snake start](images/Snake/Snake_start.png) | ![Snake new game](images/Snake/Snake_new_game.png) | ![Snake gameplay](images/Snake/Snake_gameplay.png) | ![Snake game over](images/Snake/Snake_game_over.png) |
 
 ---
 
