@@ -21,7 +21,7 @@ The *Balls* game generates bouncing balls upon user clicks. Each ball gets a ran
 
 | Initial State | Gameplay |
 |---------------|----------|
-| ![Balls start](images/Balls_start.png) | ![Balls gameplay](images/balls_gameplay.png) |
+| ![Balls start](images/Balls/Balls start) | ![Balls gameplay](images/Balls/balls_gameplay.png) |
 
 ---
 
