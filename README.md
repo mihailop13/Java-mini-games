@@ -41,7 +41,7 @@ A classic snake game where the player controls a snake that grows in length by e
 ## ⚙️ Technologies Used
 
 - Java
-- Java Swing for GUI
+- Java AWT for GUI
 
 ## 🚀 How to Run
 
